@@ -1,0 +1,13 @@
+{
+  "server_url_for_login": "http://10.180.60.4:8000/login",
+  "server_url_for_send_mail": "http://10.180.60.4:8000/raw_material/apply/send_mail",
+  "server_url_for_copy_list": "http://10.180.60.4:8000/raw_material/apply/send_mail/copy_list",
+  "username": "admin",
+  "password": "password",
+  "interval_weeks": 1,
+  "interval_days": 2,
+  "auto_start": false,
+  "recipient": "research.assistant@company.com",
+  "hour": 17,
+  "minute": 3
+}
