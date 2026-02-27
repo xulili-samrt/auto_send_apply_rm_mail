@@ -1,0 +1,2 @@
+# auto_send_apply_rm_mail
+自动发送申请原料的小工具，配合Blendflow服务端使用
